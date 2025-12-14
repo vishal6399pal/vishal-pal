@@ -11,7 +11,7 @@ Currently working on:
 
 ### 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-red)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-green)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs-brightgreen)
